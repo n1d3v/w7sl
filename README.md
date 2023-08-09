@@ -1,4 +1,5 @@
-![Untitled](https://github.com/n1d3v/windows-7-software-list/assets/135556230/4cf268bf-a53d-4ae1-a096-23a55aeb8515)
+![Untitled](https://github.com/n1d3v/windows-7-software-list/assets/135556230/0e22c72e-32e9-4ca7-9d9a-09edbf7cc4d0)
+
 <h1 align="center">Windows 7 Software List</h1>
 
 <p align="center">A list of software that still works on Windows 7.</p>
