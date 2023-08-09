@@ -1,13 +1,11 @@
 ![Untitled](https://github.com/n1d3v/windows-7-software-list/assets/135556230/0e22c72e-32e9-4ca7-9d9a-09edbf7cc4d0)
 
-<h1 align="center">Windows 7 Software List</h1>
+# Windows 7 Software List
+A list of software that still works on Windows 7.
 
-<p align="center">A list of software that still works on Windows 7.</p>
+Last updated: August 9th 2023
 
-<p align="center">Last updated August 9th 2023.</p>
-
-<p align="center">If you have more software, make a pull request.</p>
-
+If you would like to add some software, make a PR and I will look through it.
 # Browsers
 
 Chrome: [Download](https://dw7.uptodown.com/dwn/GpOucR-ucfrK0kDvhqwCp64sUQOuIFWMneh9vMSA3WNmepP3-SYuG6XmUZCQUHlri--J3-90jgi8RCHDJ5Dr7o8C4aqfVyJ9wOP9NhfQJ18H4IuwYf1TQUQfH6bNyQAk/sF-OYX6cZBOD6xoGA_SVVccR_gvyzhhvGe183gB6iDXyuM3e1ZdVgZcDrRua5-dUX2t4ggoH-rbnBM6MK-6QZXtax7X7m3UG0BWajoUE8W_Mfm9J4SjATNtjZzoNPXZE/O3JE9qQjEYBgTiPmIYf7UDKtxYupEO-YHLz_ENCKsjeDQiY75myft73nBD3UHessQ4JQm8mdOXepQ7Lcwh2vOhV8-7T9rLaqI5BTCLeDR9E=/google-chrome-109-0-5414-120.zip) Note: Not official download link.
