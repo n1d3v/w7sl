@@ -4,6 +4,7 @@ A curated list of software that remains compatible with Windows 7.
 
 *If you have suggestions for additional software, please submit a pull request (PR) for review.*
 
+**Comfirmed working using IE8+!**
 ## Browsers
 
 - **Google Chrome**: [Download (v109.0.5414.120) (Uptodown)](https://dw7.uptodown.com/dwn/GpOucR-ucfrK0kDvhqwCp64sUQOuIFWMneh9vMSA3WNmepP3-SYuG6XmUZCQUHlri--J3-90jgi8RCHDJ5Dr7o8C4aqfVyJ9wOP9NhfQJ18H4IuwYf1TQUQfH6bNyQAk/sF-OYX6cZBOD6xoGA_SVVccR_gvyzhhvGe183gB6iDXyuM3e1ZdVgZcDrRua5-dUX2t4ggoH-rbnBM6MK-6QZXtax7X7m3UG0BWajoUE8W_Mfm9J4SjATNtjZzoNPXZE/O3JE9qQjEYBgTiPmIYf7UDKtxYupEO-YHLz_ENCKsjeDQiY75myft73nBD3UHessQ4JQm8mdOXepQ7Lcwh2vOhV8-7T9rLaqI5BTCLeDR9E=/google-chrome-109-0-5414-120.zip)
@@ -23,6 +24,8 @@ A curated list of software that remains compatible with Windows 7.
 - **Aerocord (Recommended for Discord)**:  
   - [Download (v3.0.2) (Electron 22 LTS)](https://randomserver.top/aerocord/Aerocord_E22_LTS.exe)  
   - [Download (v3.0.2) (Electron 28)](https://randomserver.top/aerocord/Aerocord_E28.exe)
+ 
+- **Naticord (Discontinued, not official client)**: [Download (Latest)](https://github.com/Naticord/naticord/actions/runs/10436020906/artifacts/1823625191)
 
 - **Telegram**:
   - [Download (64-bit)](https://github.com/telegramdesktop/tdesktop/releases/download/v5.4.1/tsetup-x64.5.4.1.exe)
