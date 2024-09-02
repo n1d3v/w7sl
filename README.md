@@ -4,8 +4,6 @@ A curated list of software that remains compatible with Windows 7.
 
 *If you have suggestions for additional software, please submit a pull request (PR) for review.*
 
----
-
 ## Browsers
 
 - **Google Chrome**: [Download (v109.0.5414.120)](https://dw7.uptodown.com/dwn/GpOucR-ucfrK0kDvhqwCp64sUQOuIFWMneh9vMSA3WNmepP3-SYuG6XmUZCQUHlri--J3-90jgi8RCHDJ5Dr7o8C4aqfVyJ9wOP9NhfQJ18H4IuwYf1TQUQfH6bNyQAk/sF-OYX6cZBOD6xoGA_SVVccR_gvyzhhvGe183gB6iDXyuM3e1ZdVgZcDrRua5-dUX2t4ggoH-rbnBM6MK-6QZXtax7X7m3UG0BWajoUE8W_Mfm9J4SjATNtjZzoNPXZE/O3JE9qQjEYBgTiPmIYf7UDKtxYupEO-YHLz_ENCKsjeDQiY75myft73nBD3UHessQ4JQm8mdOXepQ7Lcwh2vOhV8-7T9rLaqI5BTCLeDR9E=/google-chrome-109-0-5414-120.zip)  
@@ -63,5 +61,3 @@ A curated list of software that remains compatible with Windows 7.
 - **VxKex**:  
   - [Download (v1.1.1.1375) (Release)](https://github.com/commandcontrolQ/VxKex/releases/download/Version1.1.1.1375/KexSetup_Release_1_1_1_1375.exe)  
   - [Download (v1.1.1.1375) (Debug)](https://github.com/commandcontrolQ/VxKex/releases/download/Version1.1.1.1375/KexSetup_Debug_1_1_1_1375.exe)
-
----
