@@ -36,6 +36,10 @@ A curated list of software that remains compatible with Windows 7.
 
 - **VLC Media Player**: [Download (v3.0.18)](https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe)
 
+- **OBS Studio**:
+  - [Download (v27.2.4) (64-bit)](https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x64.exe)
+  - [Download (v27.2.4) (32-bit)](https://github.com/obsproject/obs-studio/releases/download/27.2.4/OBS-Studio-27.2.4-Full-Installer-x86.exe)
+  
 - **Audacity**: [Download (v3.3.3)](https://github.com/audacity/audacity/releases/download/Audacity-3.3.3/audacity-win-3.3.3-x64.exe)
 
 ## IDEs
@@ -50,14 +54,23 @@ A curated list of software that remains compatible with Windows 7.
 
 - **Steam**: [Download (Latest Version)](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)
 
-## Miscellaneous
+## Utilities
 
-- **Paint.NET**: [Download (v4.2.10)](https://download.filepuma.com/files/image-editors/paint-net/Paint.NET_v4.2.10.exe)
-
-- **Python**: [Download (v3.8.10)](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
+- **7-Zip**:
+  - [Download (Latest) (64-bit)](https://7-zip.org/a/7z2408-x64.exe)
+  - [Download (Latest) (32-bit)](https://7-zip.org/a/7z2408-x86.exe)
 
 - **MSYS2**: [Download (v2022-10-28)](https://github.com/msys2/msys2-installer/releases/download/2022-10-28/msys2-x86_64-20221028.exe)
 
+## Languages
+
+- **Python**: [Download (v3.8.10)](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
+
+## Image Manipulation
+
+- **Paint.NET**: [Download (v4.2.10)](https://download.filepuma.com/files/image-editors/paint-net/Paint.NET_v4.2.10.exe)
+
+## Miscellaneous
 - **Legacy Update**: [Download (v1.9)](https://content.legacyupdate.net/legacyupdate/LegacyUpdate-1.9.exe)
 
 - **VxKex**:  
