@@ -71,7 +71,7 @@ A curated list of software that remains compatible with Windows 7.
 - **Paint.NET**: [Download (v4.2.10)](https://download.filepuma.com/files/image-editors/paint-net/Paint.NET_v4.2.10.exe)
 
 ## Miscellaneous
-- **Legacy Update**: [Download (v1.9)](https://content.legacyupdate.net/legacyupdate/LegacyUpdate-1.9.exe)
+- **Legacy Update**: [Download (v1.9) (64-bit and 32-bit)](https://content.legacyupdate.net/legacyupdate/LegacyUpdate-1.9.exe)
 
 - **VxKex**:  
   - [Download (v1.1.1.1375) (Release)](https://github.com/commandcontrolQ/VxKex/releases/download/Version1.1.1.1375/KexSetup_Release_1_1_1_1375.exe)  
