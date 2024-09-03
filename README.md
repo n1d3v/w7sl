@@ -1,6 +1,6 @@
 # Windows 7 Software List
 A curated list of software that remains compatible with Windows 7.  
-*Last updated: September 2nd, 2024*
+*Last updated: September 3nd, 2024*
 
 *If you have suggestions for additional software, please submit a pull request (PR) for review.*
 
@@ -33,7 +33,7 @@ A curated list of software that remains compatible with Windows 7.
 
 ## Music / Video
 
-- **Spotify**: [Download (Last version for 7)](https://download.scdn.co/SpotifyFull7-8-8.1.exe)  
+- **Spotify**: [Download (v1.2.5.1006)](https://download.scdn.co/SpotifyFull7-8-8.1.exe)  
 
 - **VLC Media Player**: [Download (v3.0.18)](https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe)
 
@@ -55,6 +55,8 @@ A curated list of software that remains compatible with Windows 7.
 
 - **Steam**: [Download (Latest Version)](https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe)
 
+- **osu!stable**: [Download (Web Installer)](https://m1.ppy.sh/r/osu!install.exe)
+
 ## Utilities
 
 - **7-Zip**:
@@ -63,9 +65,17 @@ A curated list of software that remains compatible with Windows 7.
 
 - **MSYS2**: [Download (v2022-10-28)](https://github.com/msys2/msys2-installer/releases/download/2022-10-28/msys2-x86_64-20221028.exe)
 
+- **Wireshark**: [Download (v4.2.7)](https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.2.7-x64.exe)
+
+- **VirtualBox**: [Download (Latest)](https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe)
+
 ## Languages
 
 - **Python**: [Download (v3.8.10)](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
+
+## Frameworks
+
+- **.NET 4.8**: [Download](https://download.microsoft.com/download/f/3/a/f3a6af84-da23-40a5-8d1c-49cc10c8e76f/NDP48-x86-x64-AllOS-ENU.exe)
 
 ## Image Manipulation
 
