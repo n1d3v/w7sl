@@ -31,8 +31,6 @@ A curated list of software that remains compatible with Windows 7.
   - [Download (64-bit)](https://github.com/telegramdesktop/tdesktop/releases/download/v5.4.1/tsetup-x64.5.4.1.exe)
   - [Download (32-bit)](https://github.com/telegramdesktop/tdesktop/releases/download/v5.4.1/tsetup.5.4.1.exe)
 
-- **WhatsApp**: [Download (v2.2326.10.0) (Uptodown) (Not tested)](https://dw.uptodown.net/dwn/nEhc_PmuLwOWsmpwCRwNrJtKtA7jSvxS6wUES-nH4uVq8fukh14hQX7IL3ZTRgkjRFkCXZtT-_QooErY3pubU23a3stCf76RM5__c72WQM75JYwN90yO1Cv6mZj4eaRh/SGr6HaFDc4LwaIi5j-3CyB008gxQPaEnlsrCnb-iRqSK1ByrEQmcI98L0kDQsva6Wo5I6VkdxoehpMF5uf2qjHLxpkRZ2P830nYV0kiLzl70UCfYrj2rczFIysJbwcFe/kpVg8Xrf5vQu89h5ZZ4msthymJM1y6lTxJIpUd0pBTFJnnLOBEvg7Txek_P-RkHo29Tk44_dQxM20gVzCunosgxvoh5f91uLB2Hf9MpByIM=/whatsapp-desktop-2-2326-10-0.exe)
-
 ## Music / Video
 
 - **Spotify**: [Download (Last version for 7)](https://download.scdn.co/SpotifyFull7-8-8.1.exe)  
