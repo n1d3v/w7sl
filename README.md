@@ -19,7 +19,7 @@ A curated list of software that remains compatible with Windows 7.
 
 ## Chatting Platforms
 
-- **Discord**: [Download (v1.0.9036) (Uptodown)](https://dw.uptodown.net/dwn/xnMo36Hnf-yYCfAL_WGi2Dipsb08TSE7BOkPgp_OQ3SxoYWTpcaqPZAljUCkYjrz2H9tHCto8Zj3QXrXGbpj6bGOEacEoqPaRnW1CtI8SswTzNpRqJsRExfzX__ISypS/i1yk-lR8PjZOfpb6zdKP3ossqAgJmH5CYypbt9BEVp080LkE1IHkeXWYBftgiASIB9l6IpXgIq3UTHJ5syKmq61Y9age0JwQr4xmEhuW50ERnkO4hAknKMTF_kFk-LbS/x7pT5uRwXTjC3pu9JeayvGL-NEX68fVzEBhj0Rf4C-ijS2wjQNTp_RNUz7gOip46FlWO2bRnGG24QmkITRX7yQ==/discord-1-0-9036.exe)
+- **Discord**: [Download (v1.0.9036) (Uptodown)](https://discord.en.uptodown.com/windows/download/1000230228)
 
 - **Aerocord (Recommended for Discord)**:  
   - [Download (v3.0.2) (Electron 22 LTS)](https://randomserver.top/aerocord/Aerocord_E22_LTS.exe)  
